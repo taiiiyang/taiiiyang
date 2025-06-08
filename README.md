@@ -1,5 +1,3 @@
-<img src="https://taiiiyang.oss-cn-beijing.aliyuncs.com/header.png?Expires=1743594264&OSSAccessKeyId=TMP.3Kmp7oVGzutHqTJQ6xqwoMqaz6ykLzLAKuZgYscRfuPy2s6YQ1EoBPG1SGk4M8o6tkpiyhTwaFyhLTNjZ2vBV2uWydqCd5&Signature=tHlEpnVn2H4jOmoVqj154xPPz7s%3D"></img>
-
 <h1>Hi 👋, I'm </h1>
 <p>Frontend developer. On the way of become a Rustacean. Focused in Canvas nearly.</p>
 <h2>🚀 Languages and Tools I Use</h2>

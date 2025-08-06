@@ -23,4 +23,3 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="42" height="42" /></a></p>
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=taiiiyang&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="taiiiyang" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taiiiyang&include_all_commits=true&hide=rust&include_all_commits&layout=compact" alt="taiiiyang" />
-<img src="https://github-profile-trophy.vercel.app/?username=taiiiyang" alt="taiiiyang" />
